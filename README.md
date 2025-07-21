@@ -24,7 +24,7 @@ We list here major resources relevant to our poster and talk.
 
 | Description                                         | Link                                                              |
 | --------------------------------------------------  | ----------------------------------------------------------------- |
-| Everything related to codefair                         | codefair.io |
+| Everything related to codefair                         | https://codefair.io |
 | Codefair on the GitHub marketplace                         | https://github.com/marketplace/codefair-app |
 | FAIR-BioRS guidelines                           | https://fair-biors.org/ |
 | FAIR-BioRS guidelines manuscript                          | https://doi.org/10.1038/s41597-023-02463-x |
